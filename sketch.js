@@ -9,7 +9,7 @@ var ground1;
 
 function preload() {
 //preload the images here
-backgroundImg = loadImage("images 2/GamingBackground.png");
+backgroundImg = loadImage("GamingBackground.png");
 
 }
 function setup() {
